@@ -1,0 +1,23 @@
+{
+  "name": "primera_practica_gitflow_alejandro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiblab1204/Primera_practica_gitflow_Alejandro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiblab1204/Primera_practica_gitflow_Alejandro/issues"
+  },
+  "homepage": "https://github.com/asiblab1204/Primera_practica_gitflow_Alejandro#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
